@@ -1,0 +1,10 @@
+{
+  "name": "kafila-stories",
+  "version": "1.0.0",
+  "description": "Kafila Stories — premium travel brand website on GitHub Pages",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "python3 -m http.server 8000"
+  },
+  "license": "UNLICENSED"
+}
