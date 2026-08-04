@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Spiti, end of summer",
+    "dates": "14 – 22 Sep",
+    "days": 9,
+    "seats": 12,
+    "booked": 8,
+    "status": "Open",
+    "image": "https://picsum.photos/seed/kafila-spiti/900/700",
+    "note": "Nine days over the Kunzum pass with the founders travelling alongside."
+  },
+  {
+    "title": "Kumaon in the mist",
+    "dates": "02 – 07 Nov",
+    "days": 6,
+    "seats": 12,
+    "booked": 12,
+    "status": "Waitlist",
+    "image": "https://picsum.photos/seed/kafila-kumaon/900/700",
+    "note": "Six days in the Almora hills, walking between villages."
+  },
+  {
+    "title": "Bhutan, winter light",
+    "dates": "18 – 26 Jan",
+    "days": 9,
+    "seats": 12,
+    "booked": 3,
+    "status": "Open",
+    "image": "https://picsum.photos/seed/kafila-bhutan-t/900/700",
+    "note": "The valleys at their clearest, with the year's first festival."
+  }
+]

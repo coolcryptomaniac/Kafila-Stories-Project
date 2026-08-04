@@ -1,0 +1,835 @@
+[
+  {
+    "slug": "rajasthan-unhurried",
+    "title": "Rajasthan, unhurried",
+    "region": "India",
+    "category": "India Tours",
+    "nights": 8,
+    "priceFrom": 124000,
+    "currency": "INR",
+    "groupSize": "2 – 12",
+    "bestMonths": "Oct – Mar",
+    "style": "Private",
+    "onRequest": false,
+    "featured": true,
+    "published": true,
+    "tagline": "Udaipur, Deogarh and Jodhpur at the pace they were built for.",
+    "overview": "Courtyards in the morning, dunes at the end. Eight nights across Mewar and Marwar, moving slowly enough that the afternoons stay yours.",
+    "hero": "https://picsum.photos/seed/rajasthan-unhurried-h/1920/1100",
+    "gallery": [
+      "https://picsum.photos/seed/rajasthan-unhurried-g1/900/700",
+      "https://picsum.photos/seed/rajasthan-unhurried-g2/900/700",
+      "https://picsum.photos/seed/rajasthan-unhurried-g3/900/700",
+      "https://picsum.photos/seed/rajasthan-unhurried-g4/900/700",
+      "https://picsum.photos/seed/rajasthan-unhurried-g5/900/700",
+      "https://picsum.photos/seed/rajasthan-unhurried-g6/900/700"
+    ],
+    "highlights": [
+      "Two nights in a working fort in the Aravallis",
+      "Mehrangarh before the crowds arrive",
+      "A private desert camp, not a tourist one"
+    ],
+    "itinerary": [
+      {
+        "label": "Day 01",
+        "title": "Arrive Udaipur",
+        "text": "Met at the airport, then straight to the lake. Nothing scheduled after — the first evening is yours."
+      },
+      {
+        "label": "Day 02",
+        "title": "The City Palace, early",
+        "text": "Doors at 9:30, and we are there at 9:25. Afternoon free. Sunset crossing to Jagmandir."
+      },
+      {
+        "label": "Day 03 – 04",
+        "title": "Deogarh",
+        "text": "Three hours north into the Aravallis. Two nights in a working fort and a village walk."
+      },
+      {
+        "label": "Day 05 – 06",
+        "title": "Jodhpur",
+        "text": "Mehrangarh at opening, the old city on foot late afternoon, rooftop dinner facing the fort."
+      },
+      {
+        "label": "Day 07 – 08",
+        "title": "Into the dunes, then home",
+        "text": "An afternoon drive out to camp, dinner under the sky, morning transfer to the airport."
+      }
+    ],
+    "stays": [
+      "Udaipur — lake-facing heritage haveli, 2 nights",
+      "Deogarh — 17th-century fort, garden wing, 2 nights",
+      "Jodhpur — old-city boutique riad, 2 nights",
+      "Thar — private desert camp, en-suite tent, 2 nights"
+    ],
+    "meals": [
+      "Breakfast daily at the property",
+      "Four dinners including the rooftop and desert nights",
+      "One cooking afternoon with a Marwari home cook",
+      "Lunches left open — we will tell you where to go"
+    ],
+    "inclusions": [
+      "All stays on twin sharing, taxes paid",
+      "Private vehicle and driver throughout",
+      "English-speaking guide in each city",
+      "Monument entries listed in the itinerary",
+      "Airport transfers both ends",
+      "A planner reachable on WhatsApp all trip"
+    ],
+    "exclusions": [
+      "Flights to and from the destination",
+      "Visa fees where applicable",
+      "Travel insurance",
+      "Lunches and anything from the minibar",
+      "Tips, left entirely to you"
+    ],
+    "faqs": [
+      {
+        "q": "How far ahead should we book?",
+        "a": "For the peak season, three months is comfortable and six is safer. The small heritage properties fill early."
+      },
+      {
+        "q": "Can the itinerary be changed?",
+        "a": "Yes. This page is the shape of the trip, not a contract. Tell your planner and you will get a revised version the same day."
+      },
+      {
+        "q": "What if we need to cancel?",
+        "a": "Full refund minus bank charges up to 45 days out, 50% up to 21 days, and no refund inside 14 days."
+      }
+    ]
+  },
+  {
+    "slug": "golden-triangle",
+    "title": "The Golden Triangle",
+    "region": "India",
+    "category": "India Tours",
+    "nights": 6,
+    "priceFrom": 86000,
+    "currency": "INR",
+    "groupSize": "2 – 12",
+    "bestMonths": "Oct – Mar",
+    "style": "Private",
+    "onRequest": false,
+    "featured": true,
+    "published": true,
+    "tagline": "Delhi, Agra and Jaipur — done properly, not quickly.",
+    "overview": "The classic route, timed against the crowds rather than with them. Early monuments, unhurried afternoons, and the old cities on foot.",
+    "hero": "https://picsum.photos/seed/golden-triangle-h/1920/1100",
+    "gallery": [
+      "https://picsum.photos/seed/golden-triangle-g1/900/700",
+      "https://picsum.photos/seed/golden-triangle-g2/900/700",
+      "https://picsum.photos/seed/golden-triangle-g3/900/700",
+      "https://picsum.photos/seed/golden-triangle-g4/900/700",
+      "https://picsum.photos/seed/golden-triangle-g5/900/700",
+      "https://picsum.photos/seed/golden-triangle-g6/900/700"
+    ],
+    "highlights": [
+      "The Taj at sunrise, before the gates crowd",
+      "Fatehpur Sikri on the road, not as a detour",
+      "Block-printing with a working Jaipur studio"
+    ],
+    "itinerary": [
+      {
+        "label": "Day 01",
+        "title": "Arrive Delhi",
+        "text": "Airport pickup and an evening walk through Nizamuddin if you have the energy."
+      },
+      {
+        "label": "Day 02",
+        "title": "Old and New Delhi",
+        "text": "Jama Masjid, a rickshaw through Chandni Chowk, and Humayun's Tomb at golden hour."
+      },
+      {
+        "label": "Day 03",
+        "title": "To Agra",
+        "text": "Drive down by expressway. Mehtab Bagh at sunset for the view across the river."
+      },
+      {
+        "label": "Day 04",
+        "title": "The Taj at sunrise, then Jaipur",
+        "text": "At the east gate before it opens. Fatehpur Sikri on the way to Jaipur."
+      },
+      {
+        "label": "Day 05",
+        "title": "Jaipur",
+        "text": "Amber Fort early, the Pink City on foot, and a block-printing afternoon."
+      },
+      {
+        "label": "Day 06",
+        "title": "Home",
+        "text": "Morning at leisure, transfer to Jaipur or Delhi airport."
+      }
+    ],
+    "stays": [
+      "Delhi — colonial-era boutique hotel, 2 nights",
+      "Agra — Taj-facing suite, 1 night",
+      "Jaipur — heritage haveli in the old city, 3 nights"
+    ],
+    "meals": [
+      "Breakfast daily",
+      "Three dinners",
+      "Street food walk in Old Delhi"
+    ],
+    "inclusions": [
+      "All stays on twin sharing, taxes paid",
+      "Private vehicle and driver throughout",
+      "English-speaking guide in each city",
+      "Monument entries listed in the itinerary",
+      "Airport transfers both ends",
+      "A planner reachable on WhatsApp all trip"
+    ],
+    "exclusions": [
+      "Flights to and from the destination",
+      "Visa fees where applicable",
+      "Travel insurance",
+      "Lunches and anything from the minibar",
+      "Tips, left entirely to you"
+    ],
+    "faqs": [
+      {
+        "q": "How far ahead should we book?",
+        "a": "For the peak season, three months is comfortable and six is safer. The small heritage properties fill early."
+      },
+      {
+        "q": "Can the itinerary be changed?",
+        "a": "Yes. This page is the shape of the trip, not a contract. Tell your planner and you will get a revised version the same day."
+      },
+      {
+        "q": "What if we need to cancel?",
+        "a": "Full refund minus bank charges up to 45 days out, 50% up to 21 days, and no refund inside 14 days."
+      }
+    ]
+  },
+  {
+    "slug": "kashmir",
+    "title": "Kashmir",
+    "region": "India",
+    "category": "India Tours",
+    "nights": 7,
+    "priceFrom": 92000,
+    "currency": "INR",
+    "groupSize": "2 – 12",
+    "bestMonths": "Oct – Mar",
+    "style": "Private",
+    "onRequest": false,
+    "featured": true,
+    "published": true,
+    "tagline": "Srinagar, Pahalgam and Gulmarg, with time on the water.",
+    "overview": "A week in the valley, built around slow mornings on Dal Lake and afternoons in the meadows above Pahalgam.",
+    "hero": "https://picsum.photos/seed/kashmir-h/1920/1100",
+    "gallery": [
+      "https://picsum.photos/seed/kashmir-g1/900/700",
+      "https://picsum.photos/seed/kashmir-g2/900/700",
+      "https://picsum.photos/seed/kashmir-g3/900/700",
+      "https://picsum.photos/seed/kashmir-g4/900/700",
+      "https://picsum.photos/seed/kashmir-g5/900/700",
+      "https://picsum.photos/seed/kashmir-g6/900/700"
+    ],
+    "highlights": [
+      "A houseboat, not a hotel with a view of one",
+      "The Lidder valley on foot",
+      "Wazwan cooked at home, not in a banquet hall"
+    ],
+    "itinerary": [
+      {
+        "label": "Day 01",
+        "title": "Arrive Srinagar",
+        "text": "Transfer to a houseboat. A shikara out at dusk."
+      },
+      {
+        "label": "Day 02",
+        "title": "Srinagar",
+        "text": "The Mughal gardens in the morning, the old city and its shrines after lunch."
+      },
+      {
+        "label": "Day 03 – 04",
+        "title": "Pahalgam",
+        "text": "Two nights in the Lidder valley. Walks to Aru and Betaab as the weather allows."
+      },
+      {
+        "label": "Day 05 – 06",
+        "title": "Gulmarg",
+        "text": "The gondola if it is running, and long walks through the meadows."
+      },
+      {
+        "label": "Day 07",
+        "title": "Home",
+        "text": "Back to Srinagar for the flight."
+      }
+    ],
+    "stays": [
+      "Srinagar — heritage houseboat, 2 nights",
+      "Pahalgam — riverside lodge, 2 nights",
+      "Gulmarg — mountain hotel, 2 nights"
+    ],
+    "meals": [
+      "Breakfast and dinner daily",
+      "One Wazwan lunch with a Srinagar family"
+    ],
+    "inclusions": [
+      "All stays on twin sharing, taxes paid",
+      "Private vehicle and driver throughout",
+      "English-speaking guide in each city",
+      "Monument entries listed in the itinerary",
+      "Airport transfers both ends",
+      "A planner reachable on WhatsApp all trip"
+    ],
+    "exclusions": [
+      "Flights to and from the destination",
+      "Visa fees where applicable",
+      "Travel insurance",
+      "Lunches and anything from the minibar",
+      "Tips, left entirely to you"
+    ],
+    "faqs": [
+      {
+        "q": "How far ahead should we book?",
+        "a": "For the peak season, three months is comfortable and six is safer. The small heritage properties fill early."
+      },
+      {
+        "q": "Can the itinerary be changed?",
+        "a": "Yes. This page is the shape of the trip, not a contract. Tell your planner and you will get a revised version the same day."
+      },
+      {
+        "q": "What if we need to cancel?",
+        "a": "Full refund minus bank charges up to 45 days out, 50% up to 21 days, and no refund inside 14 days."
+      }
+    ]
+  },
+  {
+    "slug": "kerala",
+    "title": "Kerala",
+    "region": "India",
+    "category": "India Tours",
+    "nights": 6,
+    "priceFrom": 74000,
+    "currency": "INR",
+    "groupSize": "2 – 12",
+    "bestMonths": "Oct – Mar",
+    "style": "Private",
+    "onRequest": false,
+    "featured": false,
+    "published": true,
+    "tagline": "Backwaters, tea country and the coast, in that order.",
+    "overview": "Six nights working down from the hills to the water, ending on the coast rather than starting there.",
+    "hero": "https://picsum.photos/seed/kerala-h/1920/1100",
+    "gallery": [
+      "https://picsum.photos/seed/kerala-g1/900/700",
+      "https://picsum.photos/seed/kerala-g2/900/700",
+      "https://picsum.photos/seed/kerala-g3/900/700",
+      "https://picsum.photos/seed/kerala-g4/900/700",
+      "https://picsum.photos/seed/kerala-g5/900/700",
+      "https://picsum.photos/seed/kerala-g6/900/700"
+    ],
+    "highlights": [
+      "A private houseboat, moored away from the traffic",
+      "A working tea plantation, not a viewpoint",
+      "Two nights of nothing at all, on purpose"
+    ],
+    "itinerary": [
+      {
+        "label": "Day 01",
+        "title": "Arrive Kochi",
+        "text": "Fort Kochi on foot in the late afternoon. Kathakali if you want it."
+      },
+      {
+        "label": "Day 02 – 03",
+        "title": "Munnar",
+        "text": "Up into the tea. A plantation walk and an early morning at Eravikulam."
+      },
+      {
+        "label": "Day 04",
+        "title": "Alleppey",
+        "text": "A private houseboat through the backwaters, moored overnight in a quiet channel."
+      },
+      {
+        "label": "Day 05 – 06",
+        "title": "Marari beach",
+        "text": "Two nights doing very little, which is the point."
+      }
+    ],
+    "stays": [
+      "Kochi — heritage homestay, 1 night",
+      "Munnar — plantation bungalow, 2 nights",
+      "Alleppey — private houseboat, 1 night",
+      "Marari — beach villa, 2 nights"
+    ],
+    "meals": [
+      "Breakfast daily",
+      "All meals aboard the houseboat",
+      "One toddy-shop lunch"
+    ],
+    "inclusions": [
+      "All stays on twin sharing, taxes paid",
+      "Private vehicle and driver throughout",
+      "English-speaking guide in each city",
+      "Monument entries listed in the itinerary",
+      "Airport transfers both ends",
+      "A planner reachable on WhatsApp all trip"
+    ],
+    "exclusions": [
+      "Flights to and from the destination",
+      "Visa fees where applicable",
+      "Travel insurance",
+      "Lunches and anything from the minibar",
+      "Tips, left entirely to you"
+    ],
+    "faqs": [
+      {
+        "q": "How far ahead should we book?",
+        "a": "For the peak season, three months is comfortable and six is safer. The small heritage properties fill early."
+      },
+      {
+        "q": "Can the itinerary be changed?",
+        "a": "Yes. This page is the shape of the trip, not a contract. Tell your planner and you will get a revised version the same day."
+      },
+      {
+        "q": "What if we need to cancel?",
+        "a": "Full refund minus bank charges up to 45 days out, 50% up to 21 days, and no refund inside 14 days."
+      }
+    ]
+  },
+  {
+    "slug": "north-east-india",
+    "title": "North East India",
+    "region": "India",
+    "category": "India Tours",
+    "nights": 10,
+    "priceFrom": 0,
+    "currency": "INR",
+    "groupSize": "2 – 12",
+    "bestMonths": "Oct – Mar",
+    "style": "Private",
+    "onRequest": true,
+    "featured": false,
+    "published": true,
+    "tagline": "Meghalaya, Assam and Nagaland — built to order.",
+    "overview": "Permits, weather and road conditions make this route unsuitable for fixed pricing. Tell us your dates and we will build it around them.",
+    "hero": "https://picsum.photos/seed/north-east-india-h/1920/1100",
+    "gallery": [
+      "https://picsum.photos/seed/north-east-india-g1/900/700",
+      "https://picsum.photos/seed/north-east-india-g2/900/700",
+      "https://picsum.photos/seed/north-east-india-g3/900/700",
+      "https://picsum.photos/seed/north-east-india-g4/900/700",
+      "https://picsum.photos/seed/north-east-india-g5/900/700",
+      "https://picsum.photos/seed/north-east-india-g6/900/700"
+    ],
+    "highlights": [
+      "Permits arranged end to end",
+      "Routing adjusted to actual road conditions",
+      "Local guides in each state"
+    ],
+    "itinerary": [
+      {
+        "label": "Stage 01",
+        "title": "Guwahati and Kaziranga",
+        "text": "Arrival, then the grasslands and an early safari."
+      },
+      {
+        "label": "Stage 02",
+        "title": "Shillong and Cherrapunji",
+        "text": "The living root bridges, and the plateau in the rain."
+      },
+      {
+        "label": "Stage 03",
+        "title": "Nagaland",
+        "text": "Villages in the Naga hills, subject to permits and season."
+      },
+      {
+        "label": "Stage 04",
+        "title": "Return",
+        "text": "Back to Guwahati or Dibrugarh."
+      }
+    ],
+    "stays": [
+      "Confirmed at the time of quoting — inventory is limited and seasonal"
+    ],
+    "meals": [
+      "Breakfast and dinner daily where properties allow"
+    ],
+    "inclusions": [
+      "All stays on twin sharing, taxes paid",
+      "Private vehicle and driver throughout",
+      "English-speaking guide in each city",
+      "Monument entries listed in the itinerary",
+      "Airport transfers both ends",
+      "A planner reachable on WhatsApp all trip"
+    ],
+    "exclusions": [
+      "Flights to and from the destination",
+      "Visa fees where applicable",
+      "Travel insurance",
+      "Lunches and anything from the minibar",
+      "Tips, left entirely to you"
+    ],
+    "faqs": [
+      {
+        "q": "How far ahead should we book?",
+        "a": "For the peak season, three months is comfortable and six is safer. The small heritage properties fill early."
+      },
+      {
+        "q": "Can the itinerary be changed?",
+        "a": "Yes. This page is the shape of the trip, not a contract. Tell your planner and you will get a revised version the same day."
+      },
+      {
+        "q": "What if we need to cancel?",
+        "a": "Full refund minus bank charges up to 45 days out, 50% up to 21 days, and no refund inside 14 days."
+      }
+    ]
+  },
+  {
+    "slug": "chardham-yatra",
+    "title": "Chardham Yatra",
+    "region": "India",
+    "category": "Spiritual Tours",
+    "nights": 11,
+    "priceFrom": 98000,
+    "currency": "INR",
+    "groupSize": "2 – 12",
+    "bestMonths": "Oct – Mar",
+    "style": "Private",
+    "onRequest": false,
+    "featured": false,
+    "published": true,
+    "tagline": "Yamunotri, Gangotri, Kedarnath and Badrinath.",
+    "overview": "The full circuit at a pace that respects the altitude, with rest days built in rather than added when someone falls ill.",
+    "hero": "https://picsum.photos/seed/chardham-yatra-h/1920/1100",
+    "gallery": [
+      "https://picsum.photos/seed/chardham-yatra-g1/900/700",
+      "https://picsum.photos/seed/chardham-yatra-g2/900/700",
+      "https://picsum.photos/seed/chardham-yatra-g3/900/700",
+      "https://picsum.photos/seed/chardham-yatra-g4/900/700",
+      "https://picsum.photos/seed/chardham-yatra-g5/900/700",
+      "https://picsum.photos/seed/chardham-yatra-g6/900/700"
+    ],
+    "highlights": [
+      "Rest days built into the schedule, not improvised",
+      "Ponies and helicopter arranged in advance",
+      "Vegetarian catering throughout"
+    ],
+    "itinerary": [
+      {
+        "label": "Day 01 – 02",
+        "title": "Haridwar to Barkot",
+        "text": "Arrival, Ganga Aarti, then up into the Yamuna valley."
+      },
+      {
+        "label": "Day 03",
+        "title": "Yamunotri",
+        "text": "The trek up, with ponies arranged if needed."
+      },
+      {
+        "label": "Day 04 – 05",
+        "title": "Gangotri",
+        "text": "Across to the Bhagirathi valley, with a rest day."
+      },
+      {
+        "label": "Day 06 – 08",
+        "title": "Kedarnath",
+        "text": "Sonprayag, the trek or helicopter, and a night at the temple."
+      },
+      {
+        "label": "Day 09 – 11",
+        "title": "Badrinath and return",
+        "text": "Mana village, then down to Haridwar."
+      }
+    ],
+    "stays": [
+      "Comfortable hotels at each halt — mountain standard, not luxury",
+      "Kedarnath overnight in a temple-side lodge"
+    ],
+    "meals": [
+      "Breakfast and dinner daily, vegetarian throughout"
+    ],
+    "inclusions": [
+      "All stays on twin sharing, taxes paid",
+      "Private vehicle and driver throughout",
+      "English-speaking guide in each city",
+      "Monument entries listed in the itinerary",
+      "Airport transfers both ends",
+      "A planner reachable on WhatsApp all trip"
+    ],
+    "exclusions": [
+      "Flights to and from the destination",
+      "Visa fees where applicable",
+      "Travel insurance",
+      "Lunches and anything from the minibar",
+      "Tips, left entirely to you"
+    ],
+    "faqs": [
+      {
+        "q": "How far ahead should we book?",
+        "a": "For the peak season, three months is comfortable and six is safer. The small heritage properties fill early."
+      },
+      {
+        "q": "Can the itinerary be changed?",
+        "a": "Yes. This page is the shape of the trip, not a contract. Tell your planner and you will get a revised version the same day."
+      },
+      {
+        "q": "What if we need to cancel?",
+        "a": "Full refund minus bank charges up to 45 days out, 50% up to 21 days, and no refund inside 14 days."
+      }
+    ]
+  },
+  {
+    "slug": "maldives",
+    "title": "Maldives",
+    "region": "International",
+    "category": "Honeymoon",
+    "nights": 5,
+    "priceFrom": 210000,
+    "currency": "INR",
+    "groupSize": "2 – 12",
+    "bestMonths": "Oct – Mar",
+    "style": "Private",
+    "onRequest": false,
+    "featured": true,
+    "published": true,
+    "tagline": "One island, five nights, nothing to organise.",
+    "overview": "A single resort island with an overwater villa, chosen for quiet rather than for the size of the buffet.",
+    "hero": "https://picsum.photos/seed/maldives-k-h/1920/1100",
+    "gallery": [
+      "https://picsum.photos/seed/maldives-k-g1/900/700",
+      "https://picsum.photos/seed/maldives-k-g2/900/700",
+      "https://picsum.photos/seed/maldives-k-g3/900/700",
+      "https://picsum.photos/seed/maldives-k-g4/900/700",
+      "https://picsum.photos/seed/maldives-k-g5/900/700",
+      "https://picsum.photos/seed/maldives-k-g6/900/700"
+    ],
+    "highlights": [
+      "A private sandbank dinner, arranged quietly",
+      "House reef straight off the deck",
+      "Seaplane transfers both ways"
+    ],
+    "itinerary": [
+      {
+        "label": "Day 01",
+        "title": "Arrive Malé",
+        "text": "Seaplane to the atoll. Sunset from your own deck."
+      },
+      {
+        "label": "Day 02 – 04",
+        "title": "The island",
+        "text": "Reef snorkelling, a sandbank picnic, a spa afternoon, and as little else as you like."
+      },
+      {
+        "label": "Day 05",
+        "title": "Home",
+        "text": "Seaplane back to Malé."
+      }
+    ],
+    "stays": [
+      "Overwater villa with a private deck and pool, 4 nights"
+    ],
+    "meals": [
+      "All meals included",
+      "One private sandbank dinner"
+    ],
+    "inclusions": [
+      "All stays on twin sharing, taxes paid",
+      "Private vehicle and driver throughout",
+      "English-speaking guide in each city",
+      "Monument entries listed in the itinerary",
+      "Airport transfers both ends",
+      "A planner reachable on WhatsApp all trip"
+    ],
+    "exclusions": [
+      "Flights to and from the destination",
+      "Visa fees where applicable",
+      "Travel insurance",
+      "Lunches and anything from the minibar",
+      "Tips, left entirely to you"
+    ],
+    "faqs": [
+      {
+        "q": "How far ahead should we book?",
+        "a": "For the peak season, three months is comfortable and six is safer. The small heritage properties fill early."
+      },
+      {
+        "q": "Can the itinerary be changed?",
+        "a": "Yes. This page is the shape of the trip, not a contract. Tell your planner and you will get a revised version the same day."
+      },
+      {
+        "q": "What if we need to cancel?",
+        "a": "Full refund minus bank charges up to 45 days out, 50% up to 21 days, and no refund inside 14 days."
+      }
+    ]
+  },
+  {
+    "slug": "bali",
+    "title": "Bali",
+    "region": "International",
+    "category": "International Tours",
+    "nights": 7,
+    "priceFrom": 98000,
+    "currency": "INR",
+    "groupSize": "2 – 12",
+    "bestMonths": "Oct – Mar",
+    "style": "Private",
+    "onRequest": false,
+    "featured": false,
+    "published": true,
+    "tagline": "Ubud, Sidemen and the east coast.",
+    "overview": "Away from the south. Rice terraces, a volcano, and a stretch of coast that has not been built out yet.",
+    "hero": "https://picsum.photos/seed/bali-h/1920/1100",
+    "gallery": [
+      "https://picsum.photos/seed/bali-g1/900/700",
+      "https://picsum.photos/seed/bali-g2/900/700",
+      "https://picsum.photos/seed/bali-g3/900/700",
+      "https://picsum.photos/seed/bali-g4/900/700",
+      "https://picsum.photos/seed/bali-g5/900/700",
+      "https://picsum.photos/seed/bali-g6/900/700"
+    ],
+    "highlights": [
+      "Sidemen instead of Seminyak",
+      "A cooking afternoon in a family compound",
+      "The east coast reef, still quiet"
+    ],
+    "itinerary": [
+      {
+        "label": "Day 01 – 03",
+        "title": "Ubud",
+        "text": "Arrival, the Campuhan ridge at dawn, a temple morning and a cooking afternoon."
+      },
+      {
+        "label": "Day 04 – 05",
+        "title": "Sidemen",
+        "text": "The valley below Agung. Walking, and not much else."
+      },
+      {
+        "label": "Day 06 – 07",
+        "title": "Amed",
+        "text": "Snorkelling off the black-sand beach, then the airport."
+      }
+    ],
+    "stays": [
+      "Ubud — valley-facing villa, 3 nights",
+      "Sidemen — rice-terrace lodge, 2 nights",
+      "Amed — beachfront guesthouse, 2 nights"
+    ],
+    "meals": [
+      "Breakfast daily",
+      "Two dinners",
+      "A Balinese cooking afternoon"
+    ],
+    "inclusions": [
+      "All stays on twin sharing, taxes paid",
+      "Private vehicle and driver throughout",
+      "English-speaking guide in each city",
+      "Monument entries listed in the itinerary",
+      "Airport transfers both ends",
+      "A planner reachable on WhatsApp all trip"
+    ],
+    "exclusions": [
+      "Flights to and from the destination",
+      "Visa fees where applicable",
+      "Travel insurance",
+      "Lunches and anything from the minibar",
+      "Tips, left entirely to you"
+    ],
+    "faqs": [
+      {
+        "q": "How far ahead should we book?",
+        "a": "For the peak season, three months is comfortable and six is safer. The small heritage properties fill early."
+      },
+      {
+        "q": "Can the itinerary be changed?",
+        "a": "Yes. This page is the shape of the trip, not a contract. Tell your planner and you will get a revised version the same day."
+      },
+      {
+        "q": "What if we need to cancel?",
+        "a": "Full refund minus bank charges up to 45 days out, 50% up to 21 days, and no refund inside 14 days."
+      }
+    ]
+  },
+  {
+    "slug": "bhutan",
+    "title": "Bhutan",
+    "region": "International",
+    "category": "International Tours",
+    "nights": 8,
+    "priceFrom": 168000,
+    "currency": "INR",
+    "groupSize": "2 – 12",
+    "bestMonths": "Oct – Mar",
+    "style": "Private",
+    "onRequest": false,
+    "featured": false,
+    "published": true,
+    "tagline": "Paro, Thimphu and the Punakha valley.",
+    "overview": "Eight days at the pace the country insists on, ending with the walk up to Tiger's Nest.",
+    "hero": "https://picsum.photos/seed/bhutan-h/1920/1100",
+    "gallery": [
+      "https://picsum.photos/seed/bhutan-g1/900/700",
+      "https://picsum.photos/seed/bhutan-g2/900/700",
+      "https://picsum.photos/seed/bhutan-g3/900/700",
+      "https://picsum.photos/seed/bhutan-g4/900/700",
+      "https://picsum.photos/seed/bhutan-g5/900/700",
+      "https://picsum.photos/seed/bhutan-g6/900/700"
+    ],
+    "highlights": [
+      "Tiger's Nest at the end, once you are acclimatised",
+      "The Punakha dzong at the confluence",
+      "Sustainable development fee handled for you"
+    ],
+    "itinerary": [
+      {
+        "label": "Day 01 – 02",
+        "title": "Paro",
+        "text": "Arrival and acclimatisation. The national museum and the valley floor."
+      },
+      {
+        "label": "Day 03 – 04",
+        "title": "Thimphu",
+        "text": "The capital, a weekend market if the timing works, and the archery ground."
+      },
+      {
+        "label": "Day 05 – 06",
+        "title": "Punakha",
+        "text": "Over the Dochula pass to the dzong at the river confluence."
+      },
+      {
+        "label": "Day 07 – 08",
+        "title": "Tiger's Nest, then home",
+        "text": "The climb up, and a slow afternoon after it."
+      }
+    ],
+    "stays": [
+      "Paro — traditional farmhouse hotel, 3 nights",
+      "Thimphu — boutique hotel, 2 nights",
+      "Punakha — riverside lodge, 2 nights"
+    ],
+    "meals": [
+      "All meals included, as required by Bhutanese regulation"
+    ],
+    "inclusions": [
+      "All stays on twin sharing, taxes paid",
+      "Private vehicle and driver throughout",
+      "English-speaking guide in each city",
+      "Monument entries listed in the itinerary",
+      "Airport transfers both ends",
+      "A planner reachable on WhatsApp all trip"
+    ],
+    "exclusions": [
+      "Flights to and from the destination",
+      "Visa fees where applicable",
+      "Travel insurance",
+      "Lunches and anything from the minibar",
+      "Tips, left entirely to you"
+    ],
+    "faqs": [
+      {
+        "q": "How far ahead should we book?",
+        "a": "For the peak season, three months is comfortable and six is safer. The small heritage properties fill early."
+      },
+      {
+        "q": "Can the itinerary be changed?",
+        "a": "Yes. This page is the shape of the trip, not a contract. Tell your planner and you will get a revised version the same day."
+      },
+      {
+        "q": "What if we need to cancel?",
+        "a": "Full refund minus bank charges up to 45 days out, 50% up to 21 days, and no refund inside 14 days."
+      }
+    ]
+  }
+]

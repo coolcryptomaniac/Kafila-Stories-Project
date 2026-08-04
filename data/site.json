@@ -1,0 +1,68 @@
+{
+  "brand": {
+    "name": "Kafila Stories",
+    "tagline": "Caravans since 2019",
+    "legal": "Kafila Stories Travel LLP"
+  },
+  "contact": {
+    "whatsapp": "919876543210",
+    "phone": "+91 98765 43210",
+    "email": "hello@kafilastories.com",
+    "instagram": "https://instagram.com/kafilastories",
+    "youtube": "https://youtube.com/@kafilastories",
+    "address": "Kafila Stories, Jaipur, Rajasthan",
+    "mapsEmbed": "https://www.google.com/maps?q=Jaipur,Rajasthan&output=embed"
+  },
+  "payment": {
+    "upiId": "kafilastories@okhdfcbank",
+    "accountName": "Kafila Stories Travel LLP",
+    "accountNumber": "5010 0847 2291 06",
+    "ifsc": "HDFC0001294",
+    "bankName": "HDFC Bank",
+    "depositAmount": 25000,
+    "qrImage": ""
+  },
+  "hero": {
+    "headlineTop": "Some journeys are",
+    "headlineEm": "arranged.",
+    "headlineEnd": "Ours are accompanied.",
+    "sub": "Private, slow-made journeys across India and beyond \u2014 planned by people who have walked the route first.",
+    "slides": [
+      { "label": "Udaipur", "image": "https://picsum.photos/seed/kafila-mewar/1920/1200" },
+      { "label": "Kashmir", "image": "https://picsum.photos/seed/kafila-dal/1920/1200" },
+      { "label": "Maldives", "image": "https://picsum.photos/seed/kafila-atoll/1920/1200" }
+    ]
+  },
+  "why": {
+    "heading": "We travel the route<br>before we sell it.",
+    "lede": "Every itinerary here has been walked, eaten and slept through by someone on our team. We know which room at the haveli catches the morning light, which pass closes early in October, and which driver will stop when you ask him to.",
+    "pillars": [
+      { "title": "Planned by hand", "text": "No third-party inventory dumped into a page. Every stay, driver and permit is one we have used." },
+      { "title": "One person, start to finish", "text": "The same planner answers you before you book, while you travel, and after you are home." },
+      { "title": "Small caravans", "text": "Private departures, or group trips capped small enough that everyone eats at one table." }
+    ]
+  },
+  "founder": {
+    "name": "Founder name",
+    "photo": "https://picsum.photos/seed/kafila-founder/900/1125",
+    "note": "Replace this with the founder's own words before launch. Per the brief, nothing on this page should be written by anyone but you.",
+    "instagram": "https://instagram.com/kafilastories"
+  },
+  "about": {
+    "heading": "About Kafila Stories",
+    "sections": [
+      { "title": "About Kafila Stories", "text": "PLACEHOLDER \u2014 supply final copy before launch." },
+      { "title": "Why Kafila?", "text": "PLACEHOLDER \u2014 supply final copy before launch." },
+      { "title": "Brand vision", "text": "PLACEHOLDER \u2014 supply final copy before launch." },
+      { "title": "Our values", "text": "PLACEHOLDER \u2014 supply final copy before launch." }
+    ]
+  },
+  "reviews": [
+    { "text": "We asked to move a night to Jaisalmer four days before flying. It was done by evening, with the new hotel already confirmed.", "who": "Priya & Arun \u00b7 Rajasthan, February" },
+    { "text": "I have booked a lot of trips to India. This is the first time nobody tried to take me to a carpet shop.", "who": "Martin H. \u00b7 Golden Triangle, November" },
+    { "text": "Twelve strangers on day one. We still send each other photographs from that ridge.", "who": "Sneha \u00b7 Spiti with the founders" }
+  ],
+  "legal": {
+    "cancellation": "Full refund minus bank charges up to 45 days before departure. 50% up to 21 days. No refund inside 14 days. Non-refundable components are noted on each package."
+  }
+}
