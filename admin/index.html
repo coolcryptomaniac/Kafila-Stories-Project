@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Admin — Kafila Stories</title>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/css/style.css">
+<style>
+body{background:var(--sand)}
+.shell{max-width:1180px;margin:0 auto;padding:26px var(--pad) 80px}
+.top{display:flex;justify-content:space-between;align-items:center;gap:18px;flex-wrap:wrap;margin-bottom:26px}
+.top h1{font-size:26px}
+.box{background:var(--ivory);border:1px solid var(--line);border-radius:4px}
+.gate{max-width:520px;margin:12vh auto;padding:34px}
+.f{margin-bottom:16px}
+.f label{display:block;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--grey);margin-bottom:7px}
+.f input,.f textarea,.f select{width:100%;background:#fff;border:1px solid var(--line);border-radius:3px;padding:11px 13px;font-size:14px}
+.f textarea{min-height:80px;resize:vertical;font-family:var(--body)}
+.f input:focus,.f textarea:focus,.f select:focus{outline:none;border-color:var(--gold)}
+.f .hint{font-size:12px;color:var(--grey);margin-top:6px}
+.cols{display:grid;grid-template-columns:1fr;gap:0}
+@media(min-width:860px){.cols{grid-template-columns:200px 1fr}}
+.side{border-right:1px solid var(--line);padding:14px 0;background:#fff;border-radius:4px 0 0 4px}
+.side button{display:block;width:100%;text-align:left;padding:11px 20px;border:0;background:none;cursor:pointer;font-size:13px;color:var(--grey);border-left:2px solid transparent}
+.side button[aria-selected="true"]{color:var(--charcoal);border-left-color:var(--gold);background:var(--sand)}
+@media(max-width:859px){.side{display:flex;overflow-x:auto;border-right:0;border-bottom:1px solid var(--line);padding:0;border-radius:4px 4px 0 0}
+ .side button{white-space:nowrap;border-left:0;border-bottom:2px solid transparent;padding:14px 18px}
+ .side button[aria-selected="true"]{border-bottom-color:var(--gold)}}
+.stage{padding:clamp(18px,3vw,30px)}
+.row{display:grid;gap:14px;grid-template-columns:1fr auto;align-items:center;padding:14px 0;border-bottom:1px solid var(--line)}
+.row:last-child{border-bottom:0}
+.row .t{font-size:15px}
+.row .m{font-size:12px;color:var(--grey);margin-top:3px}
+.chip{font-size:9.5px;letter-spacing:.16em;text-transform:uppercase;padding:5px 11px;border-radius:99px;border:1px solid var(--line);color:var(--grey);white-space:nowrap}
+.chip.live{color:#4A7C4E;border-color:rgba(74,124,78,.35)}
+.chip.hold{color:var(--gold);border-color:rgba(169,133,70,.4)}
+.acts{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.mini{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+.bar{display:flex;gap:14px;align-items:center;flex-wrap:wrap;margin-top:22px;padding-top:18px;border-top:1px solid var(--line)}
+.flash{font-size:12px;letter-spacing:.1em}
+.flash.ok{color:#4A7C4E}.flash.bad{color:#B4503C}
+.dayrow{display:grid;grid-template-columns:110px 1fr;gap:10px;margin-bottom:10px}
+@media(max-width:700px){.dayrow{grid-template-columns:1fr}}
+.warn{background:rgba(169,133,70,.1);border:1px solid rgba(169,133,70,.3);border-radius:3px;padding:14px 16px;font-size:13px;color:var(--charcoal);margin-bottom:20px}
+</style>
+</head>
+<body>
+<div class="shell">
+  <div id="gate" class="box gate">
+    <p class="eyebrow">Kafila Stories</p>
+    <h1 style="font-size:28px;margin:10px 0 6px">Admin</h1>
+    <p style="font-size:14px;color:var(--grey);margin-bottom:24px">Credentials stay in this browser and are never sent anywhere except GitHub and your own Apps Script.</p>
+    <div class="f"><label>GitHub token</label><input id="g-tok" type="password" placeholder="github_pat_...">
+      <p class="hint">Fine-grained token, this repository only, Contents: read and write. Needed to save content changes.</p></div>
+    <div class="f"><label>Admin key</label><input id="g-key" type="password" placeholder="from Code.gs">
+      <p class="hint">The ADMIN_KEY you set in Code.gs. Needed to see bookings.</p></div>
+    <button class="btn btn--solid" id="g-in">Open admin <span class="arw">→</span></button>
+    <p style="font-size:12px;color:var(--grey);margin-top:18px">You can enter only one and use the half that works.</p>
+  </div>
+
+  <div id="app" hidden>
+    <div class="top">
+      <div><p class="eyebrow">Kafila Stories</p><h1>Admin</h1></div>
+      <div class="acts">
+        <a class="btn btn--sm" href="../index.html" target="_blank">View site</a>
+        <button class="btn btn--sm" id="out">Sign out</button>
+      </div>
+    </div>
+    <div class="box cols">
+      <div class="side">
+        <button data-t="pk" aria-selected="true">Packages</button>
+        <button data-t="bk" aria-selected="false">Bookings</button>
+        <button data-t="tr" aria-selected="false">Group trips</button>
+        <button data-t="py" aria-selected="false">Payment details</button>
+        <button data-t="ct" aria-selected="false">Contact & socials</button>
+        <button data-t="hm" aria-selected="false">Homepage</button>
+      </div>
+      <div class="stage" id="stage"></div>
+    </div>
+  </div>
+</div>
+
+<script src="../config.js"></script>
+<script src="../assets/js/admin.js"></script>
+</body>
+</html>
